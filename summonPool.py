@@ -1,0 +1,1 @@
+summonPool = ['Goku', 'Frieza', 'Gohan', 'Piccolo', 'Vegeta', 'Trunks', 'Krillin', 'Goten', 'Future Trunks', 'Broly', 'Vegito', 'Kid Buu', 'Cell', 'Android 17', 'Android 18', 'Pan', 'Tien', 'Yamcha', 'Chiaotzu', 'Yajirobe', 'Majin Buu', 'Gotenks', 'Buuhan', 'Majin Vegeta']
